@@ -1,4 +1,11 @@
 * NEWS
+Thursday 09-Aug-2012
+- Updated downloadable bundles will be available at <a href="http://github.com/jschroth/ReplyWithHeaders/downloads">https://github.com/jschroth/ReplyWithHeaders/downloads</a>
+- Source code will be maintained at <a href="https://github.com/jschroth/ReplyWithHeaders">http://github.com/jschroth/ReplyWithHeaders</a>
+<script type="text/javascript"><!--
+window.location = 'http://github.com/jschroth/ReplyWithHeaders/';
+//--></script>
+
 Thursday Oct 13
 - Info.plist updated by Json Schroth for 10.7.2
 - version 1.1.7
